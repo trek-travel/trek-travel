@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+
+}
+h1{
+  color: red;
+}
+
+h2{
+  color: white;
+}
+h3{
+  color: red;
+}
+h4{
+  color: white;
+}
+ol{
+  color: white;
+}
+/*********************************TAG SELECTOR*******************************/
+.heading{
+  color: white;
+}
+.back{
+  background-image:
+  url("image/lahaul.jpg");
+}
